@@ -2,7 +2,9 @@
 
 // Switch
 
-var edad = 18;
+// Solo evalúa la variable exacta al número en cada caso, los digítios son neutros
+
+var edad = 41;
 var imprime = "";
 
 switch(edad) {
